@@ -2,8 +2,8 @@
 
 - Hey, I'm Yonathan! A freelance software engineer.
 - Interested in Web and Mobile Development, Distributed Systems...
-- Keen on identifying problems that surround me, **designing** and **implementing** a **solution**; generally streamline workflows.
-- I give great attention to the smaller, fine-grained details of software development(problems in general).
+- Keen on identifying problems that surround me, **designing** and **implementing** a **solution**..
+- I give great attention to the smaller, fine-grained details of software development.
 
 🗨️ Want to reach out? Here's my [**Linkedin**](https://www.linkedin.com/in/yonitanosie/) page or email me [**here**](mailto:yonit.anosie@gmail.com)! I'll try my best to respond ASAP.
 
