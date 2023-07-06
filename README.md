@@ -10,4 +10,4 @@
 🖇️ Here is my [**Resume**](https://drive.google.com/file/d/1W2Cq_lLaBGyDqgmXiRCCKYP4f539Z0Ec/view?usp=share_link) and [**Portfolio Website**]()
 
 
-![Yoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=yonit1dev&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=yonit1dev&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark)
