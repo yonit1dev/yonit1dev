@@ -7,7 +7,4 @@
 
 🗨️ Want to reach out? Here's my [**Linkedin**](https://www.linkedin.com/in/yonitanosie/) page or email me [**here**](mailto:yonit.anosie@gmail.com)! I'll try my best to respond ASAP.
 
-🖇️ Here is my [**Resume**](https://drive.google.com/file/d/1W2Cq_lLaBGyDqgmXiRCCKYP4f539Z0Ec/view?usp=share_link) and [**Portfolio Website**]()
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=yonit1dev&count_private=true&hide=stars,contribs&show_icons=true&theme=github_dark)
